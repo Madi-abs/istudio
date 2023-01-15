@@ -23,10 +23,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     speed: 1000,
 
-    mousewheel: {
-      sensitivity: 1,
-    },
-
     keyboard: {
       enabled: true,
       onlyInViewport: true,

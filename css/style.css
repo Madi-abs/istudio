@@ -227,7 +227,7 @@ a:hover, a:hover:hover {
 .nav__link {
   text-align: right;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 14px;
   letter-spacing: 5px;
   font-weight: 300;
 }
@@ -236,7 +236,7 @@ a:hover, a:hover:hover {
 }
 @media (max-width: 900px) {
   .nav__link {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
